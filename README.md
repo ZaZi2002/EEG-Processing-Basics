@@ -36,8 +36,3 @@ This project focuses on analyzing a continuous signal with a time-varying freque
 
 - MATLAB
 
-## Acknowledgements
-
-- MATLAB Documentation
-- Signal Processing Textbooks and Resources
-

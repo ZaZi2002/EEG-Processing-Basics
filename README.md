@@ -1,4 +1,4 @@
-# EEG Signal Processing CHW1
+# EEG Signal Processing First Project
 
 ## Overview
 
